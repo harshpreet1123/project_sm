@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035603554165",
+    "project_id": "project-sm-81242",
+    "storage_bucket": "project-sm-81242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035603554165:android:f256d937ccecceea41ad3c",
+        "android_client_info": {
+          "package_name": "com.ecno.sm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIy0aUovG3lYygWcDHaPZmGvLsaMFHIeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
